@@ -1,6 +1,6 @@
 Event Management / Human Resource Allocation Web Application
 
-Purpose: An application which provides an interface for posting openings towards events and allocating appropiate human resources to the said opening. 
+Purpose: An application which provides an interface for posting openings towards events and allocating appropriate human resources to the said opening. 
 
 Users: -
 1.	Owner / Admin of the application
